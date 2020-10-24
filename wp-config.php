@@ -4,12 +4,21 @@
 define( 'WP_ENVIRONMENT_TYPES', 'production' );
 
 /* Database connection */
-define( 'DB_NAME', 'wp_rendontrading' );
-define( 'DB_USER', 'root' );
-define( 'DB_PASSWORD', 'root' );
+//PROD
+define( 'DB_NAME', 'rendoing_wp_rendontrading' );
+define( 'DB_USER', 'rendoing_RTDev' );
+define( 'DB_PASSWORD', 'RTDev!123' );
 define( 'DB_HOST', 'localhost' );
 define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', 'utf8mb4_general_ci' );
+
+//LOCAL
+// define( 'DB_NAME', 'wp_rendontrading' );
+// define( 'DB_USER', 'root' );
+// define( 'DB_PASSWORD', 'root' );
+// define( 'DB_HOST', 'localhost' );
+// define( 'DB_CHARSET', 'utf8mb4' );
+// define( 'DB_COLLATE', 'utf8mb4_general_ci' );
 
 /* Tables */
 $table_prefix = 'wpik03e9_';
