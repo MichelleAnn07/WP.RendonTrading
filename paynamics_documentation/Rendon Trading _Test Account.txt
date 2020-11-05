@@ -1,0 +1,17 @@
+
+Dashboard url: https://testpti.payserv.net/paygatev2/default.aspx
+
+
+Username:	rendon_test
+Password:	Bf0jRWIj
+
+
+
+Merchant ID	000000291020D56FDCD7
+Merchant Name	Rendon Trading_MIGS_PHP
+Company Name	Rendon Trading
+Merchant Key	5444C2D056185F65E4DBFEF8D98739FA
+
+
+Endpoint: https://testpti.payserv.net/webpayment/Default.aspx
+
